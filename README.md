@@ -1,5 +1,4 @@
-# Capstone_Project_rest 
-*****************************
+Capstone_Project_rest 
 # (Introduction/Business Problem)
 ### A friend comes to me because he wants to open a Japanese restaurant in Seville, Spain. As I am from Seville, he thinks that I will be able to help him in the    decision due to my knowledge of the city.
 ### Unfortunately, I have not lived there for a long time, and my knowledge of the restoration in the area is somewhat outdated.
