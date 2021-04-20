@@ -26,5 +26,4 @@ The data to be used will be the foursquare restaurant database and some statisti
 1. There is little competition in general for sushi restaurants in the center of Seville.
 2. within the 3 locations the results are as follows:
 
-|Location| Plaza Nueva | Alfalfa | Alameda de Hércules |
-|--------|-------------|---------|–--------------------|
+| Location  | Plaza Nueva | Alfalfa | Alameda de Hércules |
