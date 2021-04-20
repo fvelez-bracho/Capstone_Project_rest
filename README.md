@@ -38,4 +38,4 @@ The data to be used will be the foursquare restaurant database and some statisti
 3. There are no ratings for any of the restaurants. Therefore, it will not be a relevant variable.
 4. Most of the sushi restaurants in Seville are more than 1000 m away from the alfalfa as you can see the following histogram.
 
-https://raw.githubusercontent.com/fvelez-bracho/Capstone_Project_rest/master/asset/Unknown-32.png
+https://github.com/fvelez-bracho/Capstone_Project_rest/blob/main/Unknown-32.png
