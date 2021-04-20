@@ -28,6 +28,9 @@ The data to be used will be the foursquare restaurant database and some statisti
 
 | LOCATION| PLAZA NUEVA| ALFALFA| ALAMEDA|
 | ----- | ---- | ----- | ----- |
-|nearest restaurant distance 1 | Sibuya Urban Sushi | Sushi Jamon Bar| Sushiteka|
+|nearest restaurant distance 1 | Sibuya Urban Sushi| Sushi Jamon Bar| Sushiteka|
 |nearest restaurant distance 2 | Mc'Sushi | Sibuya Urban Sushi| Akira Sushi & Cocktail Bar|
 |nearest restaurant distance 3 | Sushi Man | Mc'Sushi | De Fu Sushi|
+|distance 1 (m)| 96| 164| 180|
+|distance 2 (m)| 331 | 264| 220|
+|distance 3 (m)| 355 | 455 | 268|
