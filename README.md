@@ -23,7 +23,7 @@ The data to be used will be the foursquare restaurant database and some statisti
 ## (Results)
   Finally, the data has shown us the following information:
 
-1. There is little competition in general for sushi restaurants in the center of Seville.
+1. There are few competitors in the center of seville for our sushi restaurant.
 2. within the 3 locations the results are as follows:
 
 | LOCATION| PLAZA NUEVA| ALFALFA| ALAMEDA|
@@ -34,3 +34,8 @@ The data to be used will be the foursquare restaurant database and some statisti
 |distance 1 (m)| 96| 164| 180|
 |distance 2 (m)| 331 | 264| 220|
 |distance 3 (m)| 355 | 455 | 268|
+
+3. There are no ratings for any of the restaurants. Therefore, it will not be a relevant variable.
+4. Most of the sushi restaurants in Seville are more than 1000 m away from the alfalfa as you can see the following histogram.
+
+
